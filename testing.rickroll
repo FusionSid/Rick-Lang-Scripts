@@ -1,0 +1,11 @@
+take me to ur heart
+    give name up "Sid"
+
+    i just wanna tell u how im feeling "Hello", name, "\n"
+    
+    give index up 0
+    together forever with index is less than 100
+        give index up index + 1
+        i just wanna tell u how im feeling index, "\n"
+    say goodbye
+say goodbye

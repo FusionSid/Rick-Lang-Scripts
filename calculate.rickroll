@@ -1,0 +1,23 @@
+take me to ur heart
+    gonna add num1, num2
+        i just wanna tell u how im feeling num1 + num2, "\n"
+    say goodbye
+
+    gonna multiply num1, num2
+        i just wanna tell u how im feeling num1 * num2, "\n"
+    say goodbye
+
+    gonna divide num1, num2
+        i just wanna tell u how im feeling num1 / num2, "\n"
+    say goodbye
+
+    gonna subtract num1, num2
+        i just wanna tell u how im feeling num1 - num2, "\n"
+    say goodbye
+
+    add(10, 10)
+    subtract(10, 10)
+    multiply(10, 10)
+    divide(10, 10)
+    
+say goodbye
