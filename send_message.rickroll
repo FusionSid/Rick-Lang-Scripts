@@ -1,0 +1,9 @@
+take me to ur heart
+    give requests up __import__("requests")
+
+    give message up "This message was sent using ricklang"
+    give token up "your token"
+
+    i just wanna tell u how im feeling requests.post(url="https://discord.com/api/v8/channels/915761717970096130/messages", data = {"content": message}, headers = {"authorization": token}).content
+
+say goodbye

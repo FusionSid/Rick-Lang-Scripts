@@ -1,0 +1,10 @@
+take me to ur heart
+    
+    gonna say_hi name
+        give say up "Hello " + name + "\n"
+        when i give my say
+    say goodbye
+
+    i just wanna tell u how im feeling say_hi("Hello")    
+
+say goodbye
