@@ -1,0 +1,13 @@
+take me to ur heart
+    we know the flask
+    
+    give app up flask.Flask(__name__, template_folder="<full_path>/Rick-Lang-Guide/other/website/templates", static_folder="<full_path>/Rick-Lang-Guide/other/website/static")
+
+    gonna home_page
+        when i give my flask.render_template("index.html")
+    say goodbye
+    
+    i just wanna tell u how im feeling app.add_url_rule("/", "home", view_func=home_page)
+
+    give run up app.run()
+say goodbye

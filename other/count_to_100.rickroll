@@ -1,0 +1,15 @@
+take me to ur heart
+    # Sets variable named index to 0
+    give index up 0
+
+    # while the index is less than 100
+    together forever with index is less than 100
+
+        # set index to index+1
+        give index up index + 1
+
+        # Print index
+        i just wanna tell u how im feeling index, "\n"
+
+    say goodbye
+say goodbye
