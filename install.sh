@@ -1,11 +1,15 @@
 cd ~/
 
-wget -O -P ~/ https://github.com/Rick-Lang/rickroll-lang/archive/refs/heads/main.zip
-unzip main.zip
-rm main.zip
+echo "Starting downloading source code"
+curl https://github.com/Rick-Lang/rickroll-lang/archive/refs/heads/main.zip -O -J -L
+tar -xf rickroll-lang-main.zip
+rm rickroll-lang-main.zip
 
-echo "Finished downloading scripts\nNow installing ricklang command..."
+echo "Finished downloading source code and have saved it in ~/rickroll-lang-main"
+echo "Now installing ricklang command"
 sleep 1
+
+echo "Making ricklang script"
 
 sudo echo """# Ricklang 
 
@@ -15,4 +19,5 @@ python3 RickRoll.py "\$cwd/\$1" \${@:2}
 """ > /usr/local/bin/ricklang
 
 sleep 1
+echo "Making script executable"
 sudo chmod +x /usr/local/bin/ricklang
