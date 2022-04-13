@@ -1,0 +1,18 @@
+take me to ur heart
+    give name up "Rick"
+    give age up 56
+    give grades up 69.42
+    give is_cool up True
+
+    give my_tuple up ("never", "gonna", "give")
+    give my_list up ("you", "up")
+    give my_set up {"never", "gonna", "let", "you", "down"}
+
+    i just wanna tell u how im feeling name.__class__
+    i just wanna tell u how im feeling age.__class__
+    i just wanna tell u how im feeling grades.__class__
+    i just wanna tell u how im feeling is_cool.__class__
+    i just wanna tell u how im feeling my_tuple.__class__
+    i just wanna tell u how im feeling my_list.__class__
+    i just wanna tell u how im feeling my_set.__class__
+say goodbye
