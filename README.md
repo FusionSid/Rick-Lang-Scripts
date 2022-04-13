@@ -82,12 +82,14 @@ Download the `install.sh` file
 Run `sudo bash install.sh`  
 Make sure you run with `sudo` perms or it will not work
 
+Or you can do `curl -s -L https://raw.githubusercontent.com/FusionSid/Rick-Lang-Scripts/master/install.sh | sudo bash`
+
 Now whenever you want to run ricklang code you do 
 `ricklang <filename> [*optional cli args]`  
 - Eg: To run `main.rickroll`: `ricklang main.rickroll`  
 - Eg: Run with time and audio: `ricklang main.rickroll --time --audio`
 
-**Note:** This only works on mac and linux and you must have `wget` already installed
+**Note:** This only works on mac and linux
 
 ---
 
