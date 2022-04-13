@@ -9,5 +9,5 @@ cd /d "%HOMEDRIVE%%HOMEPATH%"/rickroll-lang-main/src-py/
 
 set cwd=%cd%
 cd %USERPROFILE%/rickroll-lang-main/src-py/
-py Rickroll.py "%cwd%" %*
+py Rickroll.py %cwd% %*
 
