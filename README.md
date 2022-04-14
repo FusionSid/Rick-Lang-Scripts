@@ -33,7 +33,7 @@
   </p>
 </div>
 
-!!! This is not complete yet !!!
+## !!! This is not complete yet !!!
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -80,11 +80,12 @@ I have included a shell instalation script which will download the latest versio
 
 **Usage:**
 
-Download the `install.sh` file  
+Download the [`install.sh`](https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/install.sh) file  
 Run `sudo bash install.sh`  
 Make sure you run with `sudo` perms or it will not work
 
-Or you can do `curl -s -L https://raw.githubusercontent.com/FusionSid/Rick-Lang-Scripts/master/install.sh | sudo bash`
+Also if you dont want to download the script and then run it like that you can just do it all in one line witht this: 
+`curl -s -L https://raw.githubusercontent.com/FusionSid/Rick-Lang-Scripts/master/install.sh | sudo bash`
 
 Now whenever you want to run ricklang code you do 
 `ricklang <filename> [*optional cli args]`  
@@ -92,6 +93,12 @@ Now whenever you want to run ricklang code you do
 - Eg: Run with time and audio: `ricklang main.rickroll --time --audio`
 
 **Note:** This only works on mac and linux
+
+For windows [@micfun123](https://github.com/micfun123) made a [bat script](https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/install.bat) for this but im not sure if it works because I don't use windows and he said it didn't work when he tested it.
+
+### VSCode extension
+
+This is not needed but this extension contains some snippets for the language: [Link to download](https://marketplace.visualstudio.com/items?itemName=FusionSid.rickroll-lang)
 
 ---
 
