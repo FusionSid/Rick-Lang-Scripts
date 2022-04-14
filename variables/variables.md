@@ -32,7 +32,7 @@ take me to ur heart
     give grades up 69.42 # float
     give is_cool up True # bool
     give my_tuple up ("never", "gonna", "give") # tuple
-    give my_list up ("you", "up") # list
+    give my_list up ["you", "up"] # list
     give my_set up {"never", "gonna", "let", "you", "down"} # set
 say goodbye
 ```
@@ -43,7 +43,7 @@ So if we add this to the end of our file:
 `i just wanna tell u how im feeling variable_name.__class__`  
 for each variable and run it, we get this
 ```py
-<class 'str'><class 'int'><class 'float'><class 'bool'><class 'tuple'><class 'tuple'><class 'set'>
+<class 'str'><class 'int'><class 'float'><class 'bool'><class 'tuple'><class 'list'><class 'set'>
 ```
 
 ### Lists and Tuples
