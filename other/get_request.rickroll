@@ -5,7 +5,7 @@ take me to ur heart
     # The link
     give link up "https://fusionsidapi.herokuapp.com/api/fact/"
 
-    # Makes a get request and saves it to a variable called `response`
+    # Makes a get request and save the json result to a variable called `response`
     give response up requests.get(link).json()
 
     # Prints a fact
