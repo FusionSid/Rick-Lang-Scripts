@@ -2,7 +2,7 @@ cd ~/
 
 echo "Starting downloading source code"
 curl https://github.com/Rick-Lang/rickroll-lang/archive/refs/heads/main.zip -O -J -L
-tar -xf rickroll-lang-main.zip
+unzip rickroll-lang-main.zip
 rm rickroll-lang-main.zip
 
 echo "Finished downloading source code and have saved it in ~/rickroll-lang-main"
