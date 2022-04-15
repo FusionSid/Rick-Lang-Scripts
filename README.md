@@ -98,7 +98,7 @@ For windows [@micfun123](https://github.com/micfun123) made a [bat script](https
 
 ### VSCode extension
 
-This is not needed but this extension contains some snippets for the language: [Link to download](https://marketplace.visualstudio.com/items?itemName=FusionSid.rickroll-lang)
+This is not needed but this extension contains some snippets for the language it also provides syntax highlighting for otherwise plain-text files: [Link to download](https://marketplace.visualstudio.com/items?itemName=FusionSid.rickroll-lang)
 
 ---
 

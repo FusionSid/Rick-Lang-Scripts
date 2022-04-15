@@ -1,15 +1,21 @@
 take me to ur heart
     
-    gonna say_hi name
+    gonna sayhi name
         give say up "Hello " + name + "\n"
         when i give my say
     say goodbye
 
-    i just wanna tell u how im feeling say_hi("Hello")    
+    i just wanna tell u how im feeling sayhi("Hello")    
     
     # How to do *args and **kwargs in rickroll-lang
     gonna test name, *args, **kwargs
         i just wanna tell u how im feeling name, args, kwargs
     say goodbye
+
+    gonna add x, y
+        it will be completely x + y
+    say goodbye
+
+    i just wanna tell u how im feeling add(5, 10)
 
 say goodbye
