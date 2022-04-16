@@ -1,0 +1,8 @@
+take me to ur heart
+    give name up "Rick Astley" # The name variable
+
+    i just wanna tell u how im feeling "Hello " + name + "\n" # Normal print using +
+    i just wanna tell u how im feeling "Hello", name, "\n" # print using commas
+    i just wanna tell u how im feeling "Hello {}\n".format(name) # using the format function
+    i just wanna tell u how im feeling f"Hello {name}\n" # formatted string (f strings)
+say goodbye
