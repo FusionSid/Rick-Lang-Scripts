@@ -11,7 +11,6 @@ Create a variable named: `name` with value: `"Rick"`:
 ```py
 take me to ur heart
     give name up "Rick" 
-    # When printing we can either use , or + to add extra things 
     i just wanna tell u how im feeling "Hello", name + "\n"
 say goodbye
 ```
@@ -32,6 +31,7 @@ take me to ur heart
     give grades up 69.42 # float
     give is_cool up True # bool
     give my_tuple up ("never", "gonna", "give") # tuple
+    give my_dict up ("never":"gonna", "give":"you") # dict
     give my_list up ["you", "up"] # list
     give my_set up {"never", "gonna", "let", "you", "down"} # set
 say goodbye
@@ -43,7 +43,7 @@ So if we add this to the end of our file:
 `i just wanna tell u how im feeling variable_name.__class__`  
 for each variable and run it, we get this
 ```py
-<class 'str'><class 'int'><class 'float'><class 'bool'><class 'tuple'><class 'list'><class 'set'>
+<class 'str'><class 'int'><class 'float'><class 'bool'><class 'tuple'><class 'dict'><class 'list'><class 'set'>
 ```
 
 ### Lists and Tuples
@@ -63,4 +63,20 @@ Usage: `length(list)`
 To get indexes of a list we do `list[index]`. The index MUST be an integer. Remember indexes start from 0 not 1. 
 
 Tuples are just the same as list but they have an immutible state which means that the values in it can't be changed. 
+
+## Dicts
+
+To make a dictionary in rickroll-lang we use curly braces: `{}` 
+
+To add to a dict you do `py: dict["key"] = "item"`
+you can even remove from a dict using `py: dict.remove()`
+
+We can also get the length of the dict by using the built in function: `length()`
+
+## Sets 
+
+Sets in ricklang also use curly braces: `{}`  
+Sets have built in functions too like `py: set.add()` and `py: set.remove()` 
+
+We can also get the length of the set by using the built in function: `length()`
 

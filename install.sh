@@ -11,7 +11,7 @@ sleep 1
 
 echo "Making ricklang script"
 
-sudo echo """# Ricklang 
+sudo echo """# Ricklang
 
 cwd=\$(pwd);
 cd ~/rickroll-lang-main/src-py/;

@@ -1,21 +1,21 @@
 take me to ur heart
     
     gonna sayhi name
-        give say up "Hello " + name + "\n"
+        give say up f"Hello {name}\n"
         when i give my say
     say goodbye
 
-    i just wanna tell u how im feeling sayhi("Hello")    
+    i just wanna tell u how im feeling sayhi("Rick")    
     
     # How to do *args and **kwargs in rickroll-lang
     gonna test name, *args, **kwargs
-        i just wanna tell u how im feeling name, args, kwargs
+        i just wanna tell u how im feeling f"name: {name}\nargs: {args}\nkwargs: {kwargs}"
     say goodbye
 
     gonna add x, y
-        it will be completely x + y
+        when i give my (x + y)
     say goodbye
 
-    i just wanna tell u how im feeling add(5, 10)
+    i just wanna tell u how im feeling add(5, 10), "\n"
 
 say goodbye

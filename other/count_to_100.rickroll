@@ -9,7 +9,7 @@ take me to ur heart
         give index up index + 1
 
         # Print index
-        i just wanna tell u how im feeling index, "\n"
+        i just wanna tell u how im feeling "{}\n".format(index)
 
     say goodbye
 say goodbye

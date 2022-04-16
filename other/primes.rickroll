@@ -16,8 +16,7 @@ take me to ur heart
     
     together forever with num is less than or equal to 40
         and if u ask me how im feeling is_prime(num)
-            i just wanna tell u how im feeling num
-            i just wanna tell u how im feeling "\n"
+            i just wanna tell u how im feeling f"{num}\n"
         say goodbye
         give num up num + 1
     say goodbye
