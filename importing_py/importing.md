@@ -13,6 +13,8 @@ With the help of python packages you can do so much more with rickroll-lang. Eg 
 
 Heres how to make a get request using the request library:
 
+### Example
+
 ```py
 take me to ur heart
     # Same as import requests in python

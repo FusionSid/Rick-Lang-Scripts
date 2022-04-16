@@ -36,13 +36,15 @@
 ## !!! This is not complete yet !!!
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#getting-started">Getting Started:</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#shell-script">Shell Script</a></li>
+        <li><a href="#vscode-extension">VSCode Extension</a></li>
         <li><a href="#the-main-method">The Main Method</a></li>
         <li><a href="#ricklang-files">Rickroll-Lang Files</a></li>
         <li><a href="#hello-world">Hello World</a></li>
@@ -52,9 +54,17 @@
     <ul>
         <li><a href="https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/variables/variables.md#datatypes">Example</a></li>
         <li><a href="https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/variables/variables.md#datatypes">Datatypes</a></li>
-      </ul>
+    </ul>
+    <li><a href="https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/printing/printing.md">Printing:</a></li>
+    <ul>
+        <li><a href="https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/printing/printing.md#example">Example</a></li>
+    </ul>
+    <li><a href="https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/importing_py/importing.md">Importing:</a></li>
+    <ul>
+        <li><a href="https://github.com/FusionSid/Rick-Lang-Scripts/blob/master/importing_py/importing.md#example">Example</a></li>
+    </ul>
   </ol>
-</details>
+
 
 
 ## Getting Started
